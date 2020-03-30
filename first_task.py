@@ -5,3 +5,5 @@ for i in range(100, 0, -1):
         print(i, "Agile")
     elif i % 3 == 0:
         print(i, "Software")
+    else:
+        print(i)
